@@ -293,6 +293,9 @@ p.view-online {
   text-align: center;
   margin-bottom: 5px; }
 
+.blue-bg {
+  background: #1e63af; }
+
 .view-online a {
   font-weight: normal;
   text-decoration: underline;
